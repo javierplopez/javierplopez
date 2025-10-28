@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there! 👋🏻
 
 <!--
 **javierplopez/javierplopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ✨ About me!
+
+I’m a graphic designer currently studying Front-End Web Development. My passion lies in blending visual creativity with technical skills to craft engaging, user-centered digital experiences. I’m driven by curiosity, design thinking, and the desire to keep creating — combining the best of both worlds: design and code.
